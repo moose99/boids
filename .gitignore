@@ -28,7 +28,8 @@
 *.exe
 *.out
 *.app
-cannon/Debug/
-cannon/.vs/
-cannon/Release/
+boids/Debug/
+boids/.vs/
+boids/Release/
 .vs/
+Debug/
